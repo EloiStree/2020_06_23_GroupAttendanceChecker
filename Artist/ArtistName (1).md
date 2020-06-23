@@ -19,6 +19,7 @@ More information from the student of how to contact him or see his portfolio
 _Add your presence here, the date and time is recorded from your commit_
 |Day | Morning | Afternoon|Justification sent |
 |:---: | :---: | :---:| :---:|
+|2020-06-23 | V | x||
 |2020-06-23 | V | V||
 |2020-06-22 | V | V||
 |2020-06-21 | V | x|v|
