@@ -1,4 +1,4 @@
-## 2020 06 23 
+## Day: 2020-06-23 
 |Morning | Afternoon|
 |:---: | :---:|
 |  [ ] Dev name 1 |  [x] Dev name 1|
